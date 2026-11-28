@@ -1,6 +1,6 @@
 # M731 20V Power Supply · Communication
 
-Ward-Beck Systems M731, 1972|5. Wiki page: [M731 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M731.html)
+Ward-Beck Systems M731, 1972|5. Wiki page: [M731 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M731-20V-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|
